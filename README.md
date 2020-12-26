@@ -1,5 +1,5 @@
 **IP_Fortress**
-A python base program that sets linux firewall rules using the UFW (or uncomplicated firewall, is a frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu.) to block all IPs listed in *.txt* files, with the option to download IP lists of public malcious IPs.
+A python based program that sets linux firewall rules using the UFW (or uncomplicated firewall, is a frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu.) to block all IPs listed in *.txt* files, with the option to download IP lists of public malcious IPs.
 
 **Installing Necessary Dependencies and Python libraries**
 You likely already have these installed on your computer but incase you dont you can install these on you computer using
