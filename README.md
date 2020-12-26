@@ -1,5 +1,5 @@
-** IP_Fortress
-A python base program that sets linux firewall rules to block all IPs from txt files, with the option to download public malcious IP lists.**
+**IP_Fortress**
+A python base program that sets linux firewall rules using the UFW (or uncomplicated firewall, is a frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu.) to block all IPs listing in *.txt* files, with the option to download IP lists of public malcious IPs.
 
 **Installing Necessary Dependencies and Python libraries**
 You likely already have these installed on your computer but incase you dont you can install these on you computer using
@@ -11,7 +11,7 @@ To run IP Fotress open a new terminal window and navigate to the directory that 
 `python IP_Fortress`
 
 **Downloading Malcious IP lists to block with your firewall**
-To download pre approved community audited list of bad IPs you can navigate to the 2nd option in the main menu.
+You may use any list of IPs you want, but to download pre approved community audited list of bad IPs you can navigate to the 2nd option in the main menu.
 '[2]. Update lists'
 The lists are downloaded from the github repository  https://github.com/stamparm/ipsum.
 The lists will automaticlly be downloaded using 'wget'. If you have already downloaded lists from this repository, this will update those lists.
