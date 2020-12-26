@@ -8,7 +8,7 @@ You likely already have these installed on your computer but incase you dont you
 
 **Running IP Fortress**
 To run IP Fotress open a new terminal window and navigate to the directory that IP Fortress is in. Launch IP Fortress by typing
-`python IP_Fortress`
+`python IP_Fortress.py`
 
 ![alt text](https://raw.githubusercontent.com/DuncDude/IP_Fortress/main/main.png)
 
