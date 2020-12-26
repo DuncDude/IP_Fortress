@@ -3,12 +3,12 @@ A python base program that sets linux firewall rules to block all IPs from txt f
 
 **Installing Necessary Dependencies and Python libraries**
 You likely already have these installed on your computer but incase you dont you can install these on you computer using
-'sudo apt-get install ufw'
-'pip install pycopy-fnmatch'
+`sudo apt-get install ufw`
+`pip install pycopy-fnmatch`
 
 **Running IP Fortress**
 To run IP Fotress open a new terminal window and navigate to the directory that IP Fortress is in. Launch IP Fortress by typing
-'python IP_Fortress'
+`python IP_Fortress`
 
 **Downloading Malcious IP lists to block with your firewall**
 To download pre approved community audited list of bad IPs you can navigate to the 2nd option in the main menu.
