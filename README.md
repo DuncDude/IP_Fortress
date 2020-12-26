@@ -18,6 +18,7 @@ You may use any list of IPs you want, but to download pre approved community aud
 The lists are downloaded from the github repository  https://github.com/stamparm/ipsum.
 The lists will automaticlly be downloaded using 'wget'. If you have already downloaded lists from this repository, this will update those lists.
 ![alt text](https://raw.githubusercontent.com/DuncDude/IP_Fortress/main/update.png)
+
 **Blocking the IPs**
 Finally to block each IP on each list, navigate to the 1st option from the main menu
 *[1]. Apply lists '
